@@ -17,9 +17,14 @@
 </div>  
 
 ### Glad to see you here!  
-**I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.**    
+I’m a full-stack developer who has turned years of freelancing into a full-time career. 
+
+Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+
+I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. 
+
+Im also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.    
 <br/>  
 
 <div align="center">
@@ -72,7 +77,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   <img src="https://github-readme-stats.vercel.app/api?username=unknownbrian008&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Brian Tech★ Github Stats"> &emsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unknownbrian008&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40&hide_border=true" alt="" />
      <br>
      <br>
-     <img width=59% src="https://github-readme-activity-graph.cyclic.app/graph?username=unknownbrian008&layout=compact&show_icons=true&count_private=true&theme=react-dark" alt="GitHub Stats" />
+
   </a>
 </p>
 <br>
@@ -84,9 +89,4 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <div />
 <br>
 
-<a href="" align='center'><img src="contributions.svg"></a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/unknownbrian008/count.svg" />
-</p>

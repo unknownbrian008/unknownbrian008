@@ -27,7 +27,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 Im also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.    
 <br/>  
 
-<div align="center">
+<div align="left">
 <br/>  
 
 ``` 

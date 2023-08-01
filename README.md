@@ -33,9 +33,9 @@ Im also frequently blog about the world behind the screen which involves system 
 ``` 
  ┌─[unknownbrian008@github]─[~] 
  └──╼ whoami 
- 😎 dotNET Dev 
- 😎 Backend Dev
- 😎 Info Sec Enthusiast 
+ 💻 dotNET Dev 
+ 👨‍💻 Backend Dev
+ 🖥 Info Sec Enthusiast 
  ┌─[unknownbrian008@github]─[~] 
  └──╼ $ 
  ```

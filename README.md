@@ -83,18 +83,7 @@ Im also frequently blog about the world behind the screen which involves system 
 </div>  
 
 <br>
-<p align="center">
-  <a href="https://github.com/unknownbrian008/">
-  <img src="https://github-readme-stats.vercel.app/api?username=unknownbrian008&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Brian Tech★ Github Stats"> &emsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unknownbrian008&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40&hide_border=true" alt="" />
-     <br>
-     <br>
-
-  </a>
-</p>
-<br>
-   
 <h2 align="left">✍️Random Dev Quote:</h2>
-
 <div align="center"> 
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="unknownbrian008" />
 <div />

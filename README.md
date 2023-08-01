@@ -30,6 +30,17 @@ Im also frequently blog about the world behind the screen which involves system 
 <div align="center">
 <br/>  
 
+``` 
+ ┌─[unknownbrian008@github]─[~] 
+ └──╼ whoami 
+ 😎 dotNET Dev 
+ 😎 Backend Dev
+ 😎 Info Sec Enthusiast 
+ ┌─[unknownbrian008@github]─[~] 
+ └──╼ $ 
+ ```
+
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  

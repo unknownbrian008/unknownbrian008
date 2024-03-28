@@ -101,6 +101,6 @@ Im also frequently blog about the world behind the screen which involves system 
 
 
 <div align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify">
+  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=" alt=996633"Spotify">
 </div>
 

@@ -13,7 +13,7 @@ A dotNET Dev**
 <a href="https://instagram.com/unknownbrian008 " target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/@unknownbrian008" target="_blank">
+<a href="https://www.youtube.com/@unknownbrian008" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 </div>  
@@ -41,5 +41,5 @@ Im also frequently blog about the world behind the screen which involves system 
  ┌─[unknownbrian008@github]─[~] 
  └──╼ $ 
  ```
- 
+
 ![animation](https://github.com/jimmytron/jimmytron/blob/output/github-grid-snake.svg)

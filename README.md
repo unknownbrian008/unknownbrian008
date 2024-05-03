@@ -42,4 +42,3 @@ Im also frequently blog about the world behind the screen which involves system 
  └──╼ $ 
  ```
 
-![animation](https://github.com/unknownbrian008/unknownbrian008/blob/output/github-grid-snake.svg)

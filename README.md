@@ -1,19 +1,19 @@
-# ╰─❯$ unknownbrian008
+# ╰─❯$ unknownbrian
 ## 👋 This is:~
-╰─❯$ unknownbrian008.
+╰─❯$ unknownbrian
 A dotNET Dev**  
   
 <div align="center">
-<a href="https://github.com/unknownbrian008 " target="_blank">
+<a href="https://github.com/unknownbrian " target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/unknownbrian008 " target="_blank">
+<a href="https://twitter.com/unknownbrian " target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/unknownbrian008 " target="_blank">
+<a href="https://instagram.com/unknownbrian " target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/@unknownbrian008" target="_blank">
+<a href="https://www.youtube.com/@unknownbrian" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 </div>  
@@ -33,12 +33,12 @@ Im also frequently blog about the world behind the screen which involves system 
 <br/>  
 
 ``` 
- ┌─[unknownbrian008@github]─[~] 
+ ┌─[unknownbrian@github]─[~] 
  └──╼ whoami 
  💻 dotNET Dev 
  👨‍💻 Backend Dev
  🖥 Info Sec Enthusiast 
- ┌─[unknownbrian008@github]─[~] 
+ ┌─[unknownbrian@github]─[~] 
  └──╼ # 
  ```
 

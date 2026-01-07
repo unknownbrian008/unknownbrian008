@@ -1,6 +1,6 @@
-# ╰─❯$ unknownbrian
+# ╰─❯$ unknownbrian008
 ## 👋 This is:~
-╰─❯$ unknownbrian
+╰─❯$ unknownbrian008
 A dotNET Dev**  
   
 <div align="center">
@@ -33,7 +33,7 @@ Im also frequently blog about the world behind the screen which involves system 
 <br/>  
 
 ``` 
- ┌─[unknownbrian@github]─[~] 
+ ┌─[unknownbrian008@github]─[~] 
  └──╼ whoami 
  💻 dotNET Dev 
  👨‍💻 Backend Dev

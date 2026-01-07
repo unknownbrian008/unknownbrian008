@@ -35,7 +35,7 @@ Im also frequently blog about the world behind the screen which involves system 
  💻 dotNET Dev 
  👨‍💻 Backend Dev
  🖥 Info Sec Enthusiast 
- ┌─[unknownbrian@github]─[~] 
+ ┌─[unknownbrian008@github]─[~] 
  └──╼ # 
  ```
 

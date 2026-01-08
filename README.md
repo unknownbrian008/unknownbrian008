@@ -44,7 +44,7 @@ Im also frequently blog about the world behind the screen which involves system 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cmake,docker,git,github,js,linux,postgres,py,dotnet" alt=>
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,js,linux,postgres,py,dotnet" alt=>
   </a>
 </p>
 

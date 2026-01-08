@@ -1,3 +1,5 @@
+[![Alt text](unknownbrian008.png)](https://unknownbrian008.net)
+
 # ╰─❯$ unknownbrian008
 ## 👋 This is:~
 ╰─❯$ unknownbrian008
@@ -38,4 +40,13 @@ Im also frequently blog about the world behind the screen which involves system 
  ┌─[unknownbrian008@github]─[~] 
  └──╼ # 
  ```
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,cmake,docker,git,github,js,linux,postgres,py,dotnet" alt=>
+  </a>
+</p>
+
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 
